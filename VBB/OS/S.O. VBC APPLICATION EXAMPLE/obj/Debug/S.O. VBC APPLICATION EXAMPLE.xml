@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+S.O.VBCAPPLICATIONEXAMPLE
+</name>
+</assembly>
+<members>
+<member name="P:S.O._VBC_APPLICATION_EXAMPLE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member><member name="P:S.O._VBC_APPLICATION_EXAMPLE.My.Resources.Resources.Culture">
+	<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member><member name="P:S.O._VBC_APPLICATION_EXAMPLE.My.Resources.Resources.background_azul">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:S.O._VBC_APPLICATION_EXAMPLE.My.Resources.Resources.bar_navegador">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:S.O._VBC_APPLICATION_EXAMPLE.My.Resources.Resources.calculadora_bar">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:S.O._VBC_APPLICATION_EXAMPLE.My.Resources.Resources.calculadora_icon">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:S.O._VBC_APPLICATION_EXAMPLE.My.Resources.Resources.navegador_bar">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:S.O._VBC_APPLICATION_EXAMPLE.My.Resources.Resources.Recycle_Bin_Empty_64">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:S.O._VBC_APPLICATION_EXAMPLE.My.Resources.Resources">
+	<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+</members>
+</doc>

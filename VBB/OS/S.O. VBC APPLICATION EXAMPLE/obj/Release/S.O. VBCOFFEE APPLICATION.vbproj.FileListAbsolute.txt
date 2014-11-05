@@ -1,0 +1,13 @@
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\bin\Release\S.O. VBC APPLICATION EXAMPLE.exe
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\bin\Release\S.O. VBC APPLICATION EXAMPLE.pdb
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\bin\Release\S.O. VBC APPLICATION EXAMPLE.xml
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\S.O._VBC_APPLICATION_EXAMPLE.frmLoading.resources
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\S.O._VBC_APPLICATION_EXAMPLE.frmMain.resources
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\S.O._VBC_APPLICATION_EXAMPLE.frmStart.resources
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\S.O._VBC_APPLICATION_EXAMPLE.Resources.resources
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\S.O._VBC_APPLICATION_EXAMPLE.navegador.resources
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\S.O. VBCOFFEE APPLICATION.vbproj.GenerateResource.Cache
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\S.O. VBC APPLICATION EXAMPLE.exe
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\S.O. VBC APPLICATION EXAMPLE.xml
+C:\Users\Howar\AppData\Local\Temporary Projects\S.O. VBCOFFEE APPLICATION\obj\Release\S.O. VBC APPLICATION EXAMPLE.pdb
